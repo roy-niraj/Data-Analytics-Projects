@@ -8,3 +8,5 @@ The dashboard includes Year, Quarter, Month, and Day level analysis with dynamic
 ## Dashboard preview
 ![Mobile Sales Dashboard](https://github.com/roy-niraj/Data-Analytics-Projects/blob/main/Power-BI/Mobile-Sales-Dashboard/Dashboard-01.png))
 
+![Mobile Sales Dashboard](https://github.com/roy-niraj/Data-Analytics-Projects/blob/main/Power-BI/Mobile-Sales-Dashboard/Dashboard-02.png)
+
