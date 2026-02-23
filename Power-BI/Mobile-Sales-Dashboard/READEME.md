@@ -5,5 +5,6 @@ This project analyzes mobile sales performance using interactive Power BI dashbo
 It provides insights into sales trends, customer behavior, brand performance, and payment methods.
 
 The dashboard includes Year, Quarter, Month, and Day level analysis with dynamic filters.
-
+## Dashboard preview
+![Mobile Sales Dashboard](Dashbosrd-01.png)
 
