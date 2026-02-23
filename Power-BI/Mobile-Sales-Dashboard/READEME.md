@@ -6,5 +6,5 @@ It provides insights into sales trends, customer behavior, brand performance, an
 
 The dashboard includes Year, Quarter, Month, and Day level analysis with dynamic filters.
 ## Dashboard preview
-![Mobile Sales Dashboard](Dashbosrd-01.png)
+![Mobile Sales Dashboard](https://github.com/roy-niraj/Data-Analytics-Projects/blob/main/Power-BI/Mobile-Sales-Dashboard/Dashboard-01.png))
 
