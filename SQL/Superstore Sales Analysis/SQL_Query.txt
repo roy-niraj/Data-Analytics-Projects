@@ -1,0 +1,88 @@
+Basic  Query.
+
+1. Total sales ?
+2. Total profit calculate
+3. Total orders count 
+4. How many unique customers ?
+5. Saw all unique categories 
+6. Region-wise total sales
+7. Category-wise total profit
+8. Top 5 highest sales records
+9. Saw Loss-making orders 
+10. Payment modes list karo
+11. City-wise total sales
+12. Total quantity sold
+13. Technology category ke records
+14. Standard Class ship mode ke orders.
+15. Sabse zyada profit wala product.
+16. Sabse kam sales wala product.
+17. Region list karo.
+18. Consumer segment ke orders.
+19. Online payment se hui sales.
+20. January month ke orders.
+
+
+
+Intermediate  Query.
+
+
+1. Year-wise total sales.
+2. Region-wise profit margin.
+3. Category + Sub-category wise sales.
+4. Top 5 customers by sales.
+5. Average order sales.
+6. State-wise profit.
+7. hip mode-wise order count.
+8. Orders with sales above average.
+9. Top 3 cities by sales.
+10. Loss-making sub-categories.
+11. Month-wise sales trend.
+12. Customer-wise total orders
+13. Technology category ka total quantity.
+14. Region-wise average sales.
+15. Returned orders.
+16. Payment mode-wise sales.
+17. Top 5 profitable products.
+18. Segment-wise total sales.
+19. Orders shipped after order date gap > 3 days.
+20. Highest selling sub-category.
+
+
+ADVANCED Query.
+
+
+Rank products by sales (window function).
+Running total of sales.
+Region-wise top product.
+Month-over-month sales growth.
+Top customer per region.
+Profit percentage per order.
+Orders contributing top 20% sales.
+Category-wise cumulative sales.
+Customers with repeat purchases.
+Worst performing region by profit.
+Average delivery time.
+High sales but low profit orders.
+Sub-category contribution % in sales.
+Region-wise profit rank.
+Customer lifetime value (sales).
+Most returned category.
+Top 3 months by sales.
+Profit trend using window avg.
+Identify outlier sales.
+Category-wise best performing region.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
